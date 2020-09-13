@@ -1,3 +1,7 @@
+# decision-maker
+
+A React SPA react to view records and take decisions on them
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
